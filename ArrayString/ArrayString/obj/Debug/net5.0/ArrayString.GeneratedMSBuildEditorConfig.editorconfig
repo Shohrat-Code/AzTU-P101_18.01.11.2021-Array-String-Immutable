@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ArrayString
+build_property.ProjectDir = D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\18.01.11.2021-Array, String, Immutable\Codes\ArrayString\ArrayString\
